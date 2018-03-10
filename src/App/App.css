@@ -1,0 +1,19 @@
+.cardsBlock {
+    width: 60%;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    flex: 0 0 62%;
+    flex-wrap: wrap;
+}
+
+.mainBlock {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    align-items: flex-start;
+}
